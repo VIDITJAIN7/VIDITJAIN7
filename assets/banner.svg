@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bannerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+    <linearGradient id="edgeBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="40%" stop-color="#33F5FF" />
+      <stop offset="70%" stop-color="#58F5FF" />
+      <stop offset="100%" stop-color="#9BE7FF" />
+    </linearGradient>
+    <linearGradient id="accentWing" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#092942" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0DF" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#33F5FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bannerBg)" />
+
+  <path d="M0 0 H1200 V70 L1080 90 L1200 110 V140 H0 V110 L140 90 L0 70 Z" fill="#040b14" opacity="0.88" />
+  <path d="M0 68 L130 88 L0 108 Z" fill="url(#accentWing)" />
+  <path d="M1200 68 L1200 108 L1070 88 Z" fill="url(#accentWing)" transform="scale(-1,1) translate(-2400,0)" />
+
+  <rect x="0" y="32" width="1200" height="3" fill="url(#edgeBeam)" filter="url(#softGlow)" opacity="0.9" />
+  <rect x="0" y="33" width="1200" height="1" fill="url(#edgeBeam)" opacity="0.45" />
+
+  <rect x="-1200" y="28" width="1200" height="12" fill="url(#scanGradient)" opacity="0.7">
+    <animate attributeName="x" values="-1200;1200" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <path d="M120 112 H1080 L1040 124 H160 Z" fill="#061929" opacity="0.5" />
+  <path d="M220 118 H980 L950 126 H250 Z" fill="#0A2237" opacity="0.4" />
+</svg>
