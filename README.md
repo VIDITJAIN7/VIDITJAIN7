@@ -1,5 +1,5 @@
  <h1 align="center">Vidit Jain </h1>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;Building+AI+%26+Data+Products;Exploring+GCP%2C+Vertex+AI%2C+BigQuery" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;Building+AI+%26+Data+Products;Working+on+Machine+Learning;Learning+Cyber+Security;Exploring+GCP%2C+Vertex+AI%2C+BigQuery;" alt="Typing SVG" />
  </p>
 
 
