@@ -1,9 +1,5 @@
- <h1 align="center">Hi, I'm Vidit Jain 👋</h1>
- <p align="center">
-I'm driven by curiosity and a passion for learning. Each project is an opportunity to grow, whether I'm working with new algorithms, writing code, or understanding security principles. I believe in learning by doing and  continuously expanding my knowledge.
-</p>
- <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+student;Building+AI+%26+data+products;Exploring+GCP%2C+Vertex+AI%2C+BigQuery" alt="Typing SVG" />
+ <h1 align="center">Vidit Jain </h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+student;Building+AI+%26+data+products;Exploring+GCP%2C+Vertex+AI%2C+BigQuery" alt="Typing SVG" />
  </p>
 
 
@@ -11,17 +7,22 @@ I'm driven by curiosity and a passion for learning. Each project is an opportuni
   <img src="./assets/divider.svg" width="100%" alt="divider"/>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
-### 🎯 Focus
+I'm driven by curiosity and a passion for learning. Each project is an opportunity to grow, whether I'm working with new algorithms, writing code, or understanding security principles. I believe in learning by doing and  continuously expanding my knowledge.
+
+### Focus
 - Building end-to-end AI and ML based projects with real data
 - Exploring practical cybersecurity through hands-on labs
 
-### 🚀 Currently
+### Currently
 - Growing my skills across all fields
 - Working on projects that push me to learn new things
 - Open to collaborations and learning from others
-<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider"/>
+</p>
 <p align="center">
   <img src="./assets/skills.svg" width="1000" alt="skills" />
 </p>
