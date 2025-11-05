@@ -1,14 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
   <defs>
     <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#3b82f6"/>
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#F5E663"/>
     </linearGradient>
     <style>
-      .c { font: 600 16px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #e6f2ff; }
-      .g { fill: none; stroke: url(#chip); stroke-width:2; }
+      .c { font: 600 16px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #CFFAFE; }
+      .g { fill: none; stroke: url(#chip); stroke-width:2; filter: url(#glow); }
     </style>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+  <rect x="0" y="0" width="1200" height="210" rx="18" ry="18" fill="#0d1228"/>
   <g transform="translate(10,20)">
     <rect rx="14" ry="14" x="0" y="0" width="120" height="40" class="g"/>
     <text class="c" x="60" y="26" text-anchor="middle">TypeScript</text>
