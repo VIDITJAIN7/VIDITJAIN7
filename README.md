@@ -70,7 +70,17 @@
   </tr>
 </table>
 
-
+<h2 align="center">Contributions</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDITJAIN7/VIDITJAIN7/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDITJAIN7/VIDITJAIN7/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDITJAIN7/VIDITJAIN7/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider"/>
+</p>
 
 <h2 align="center">Featured projects</h2>
 <p align="center">

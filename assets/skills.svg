@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
   <defs>
     <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#22d3ee"/>
@@ -33,5 +33,33 @@
 
     <rect rx="14" ry="14" x="930" y="0" width="70" height="40" class="g"/>
     <text class="c" x="965" y="26" text-anchor="middle">Vercel</text>
+  </g>
+  <g transform="translate(10,80)">
+    <rect rx="14" ry="14" x="0" y="0" width="60" height="40" class="g"/>
+    <text class="c" x="30" y="26" text-anchor="middle">C</text>
+
+    <rect rx="14" ry="14" x="80" y="0" width="70" height="40" class="g"/>
+    <text class="c" x="115" y="26" text-anchor="middle">HTML</text>
+
+    <rect rx="14" ry="14" x="170" y="0" width="90" height="40" class="g"/>
+    <text class="c" x="215" y="26" text-anchor="middle">Verilog</text>
+
+    <rect rx="14" ry="14" x="270" y="0" width="70" height="40" class="g"/>
+    <text class="c" x="305" y="26" text-anchor="middle">Linux</text>
+
+    <rect rx="14" ry="14" x="360" y="0" width="100" height="40" class="g"/>
+    <text class="c" x="410" y="26" text-anchor="middle">Windows</text>
+
+    <rect rx="14" ry="14" x="490" y="0" width="220" height="40" class="g"/>
+    <text class="c" x="600" y="26" text-anchor="middle">Offensive Cyber Security</text>
+
+    <rect rx="14" ry="14" x="730" y="0" width="60" height="40" class="g"/>
+    <text class="c" x="760" y="26" text-anchor="middle">ECC</text>
+
+    <rect rx="14" ry="14" x="810" y="0" width="170" height="40" class="g"/>
+    <text class="c" x="895" y="26" text-anchor="middle">ML Fundamentals</text>
+
+    <rect rx="14" ry="14" x="1000" y="0" width="190" height="40" class="g"/>
+    <text class="c" x="1095" y="26" text-anchor="middle">Unity Fundamentals</text>
   </g>
 </svg>
