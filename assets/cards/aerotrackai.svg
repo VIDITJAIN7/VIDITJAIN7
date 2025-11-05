@@ -17,7 +17,7 @@
       .chip { font: 600 12px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #F5E663; }
     </style>
   </defs>
-  <rect x="12" y="12" rx="18" ry="18" width="576" height="156" fill="#0d1228" stroke="url(#neon)" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="12" y="12" rx="18" ry="18" width="576" height="156" fill="#0d1228" stroke="#00E5FF" stroke-width="2" filter="url(#shadow)"/>
   <text class="title" x="36" y="60">AeroTrackAI</text>
   <text class="sub" x="36" y="88">Predictive maintenance from live flight data</text>
   <g transform="translate(32,110)">
