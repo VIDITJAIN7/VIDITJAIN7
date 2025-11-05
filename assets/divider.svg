@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0DF" />
+      <stop offset="100%" stop-color="#58F5FF" />
+    </linearGradient>
+    <filter id="beamGlow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="18" fill="#050505" />
+  <rect x="0" y="8" width="1200" height="2" fill="url(#beam)" filter="url(#beamGlow)" opacity="0.95" />
+</svg>
