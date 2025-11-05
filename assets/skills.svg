@@ -79,8 +79,8 @@
     </a>
     <a xlink:href="https://www.offsec.com/" target="_blank">
       <g transform="translate(954,0)">
-        <rect x="0" y="0" width="220" height="48" rx="18" ry="18" fill="#050505" stroke="#00E5FF" stroke-width="2" filter="url(#chipGlow)" />
-        <text class="chip-text" x="110" y="30" text-anchor="middle">Offensive Cyber Security</text>
+        <rect x="0" y="0" width="170" height="48" rx="18" ry="18" fill="#050505" stroke="#00E5FF" stroke-width="2" filter="url(#chipGlow)" />
+        <text class="chip-text" x="85" y="30" text-anchor="middle">Cyber Security</text>
       </g>
     </a>
   </g>
