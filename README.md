@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://viditjain.me">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101414,55:172525,100:2d3936&height=170&section=header&text=vj.&fontSize=64&fontColor=eeeee5&fontAlignY=38&desc=research%20%2F%20software%20%2F%20reliable%20systems&descAlignY=64&descSize=15&descColor=a3ded7&animation=fadeIn" alt="Vidit Jain — research, software, reliable systems" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101414,55:172525,100:2d3936&height=170&section=header&text=Vidit%20Jain&fontSize=52&fontColor=eeeee5&fontAlignY=38&desc=research%20%2F%20software%20%2F%20reliable%20systems&descAlignY=64&descSize=15&descColor=a3ded7&animation=fadeIn" alt="Vidit Jain — research, software, reliable systems" width="100%" />
 </a>
 
 <p>
