@@ -10,27 +10,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3200&pause=900&color=A3DED7&center=true&vCenter=true&width=720&lines=Computer+science+student+%C2%B7+researcher+%C2%B7+builder;Turning+messy+data+into+useful+systems;Quantum+computing+%C2%B7+ML+security+%C2%B7+developer+tools" alt="Computer science student, researcher and builder" />
 </p>
 
-<p>
-  <a href="https://viditjain.me"><img src="https://img.shields.io/badge/PORTFOLIO-101414?style=for-the-badge&logo=googlechrome&logoColor=A3DED7&labelColor=2D3936" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/viditjain7"><img src="https://img.shields.io/badge/LINKEDIN-101414?style=for-the-badge&logo=linkedin&logoColor=A3DED7&labelColor=2D3936" alt="LinkedIn" /></a>
-  <a href="mailto:f20240363@dubai.bits-pilani.ac.in"><img src="https://img.shields.io/badge/CONTACT-101414?style=for-the-badge&logo=minutemailer&logoColor=A3DED7&labelColor=2D3936" alt="Email" /></a>
-</p>
-
 </div>
 
 <p align="center"><code>status: building in public</code> &nbsp; <code>location: Dubai, UAE</code> &nbsp; <code>signal: curious</code></p>
 
 ## / about
 
-I learn by shipping: small experiments, useful tools, and research code that makes an idea easier to test.
+I like building things to figure out how they work — search tools, small ML systems, and experiments that may or may not survive the weekend.
 
-On GitHub, you’ll find work across:
+Around here you’ll find:
 
 - search and data products
 - ML security and reliable evaluation
 - quantum systems and developer tooling
 
-I care about readable code, honest caveats, and turning each repository into a better question than the one I started with.
+I’m mostly here to learn in public, keep the code readable, and leave better questions in each repository than the ones I started with.
 
 ## / stack
 
@@ -111,16 +105,9 @@ The portfolio contains the longer case studies, diagrams, implementation notes, 
 </tr>
 </table>
 
-## / research log
+## / lately
 
-| Area | Question I’m working through |
-| :--- | :--- |
-| **Quantum federated learning** | How can a shared quantum model remain reliable when a participant’s circuit is manipulated? |
-| **Migration nowcasting** | How can delayed administrative records and digital traces estimate the present without hiding uncertainty? |
-| **Explainable transport** | Which operational changes could reduce predicted congestion, and which recommendations are model artefacts? |
-| **Hybrid error correction** | How should BCH codes and machine learning be balanced across error reduction and correction latency? |
-
-<p align="center"><a href="https://viditjain.me/research/">Read the research notes →</a></p>
+Currently poking at quantum federated learning, ML security, information retrieval, and data systems. Longer write-ups live on the <a href="https://viditjain.me/research/">portfolio</a>.
 
 ## / principles
 
@@ -154,7 +141,7 @@ The portfolio contains the longer case studies, diagrams, implementation notes, 
 
 ### Let’s build something thoughtful.
 
-<a href="mailto:f20240363@dubai.bits-pilani.ac.in">f20240363@dubai.bits-pilani.ac.in</a> · <a href="https://viditjain.me">viditjain.me</a> · <a href="https://github.com/VIDITJAIN7">github.com/VIDITJAIN7</a>
+<a href="https://github.com/VIDITJAIN7">github.com/VIDITJAIN7</a>
 
 <sub>© Vidit Jain · designed to echo the portfolio’s dark glass and mint signal system.</sub>
 
