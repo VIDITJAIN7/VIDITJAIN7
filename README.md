@@ -105,10 +105,6 @@ The portfolio contains the longer case studies, diagrams, implementation notes, 
 </tr>
 </table>
 
-## / lately
-
-Currently poking at quantum federated learning, ML security, information retrieval, and data systems. Longer write-ups live on the <a href="https://viditjain.me/research/">portfolio</a>.
-
 ## / principles
 
 <blockquote>
