@@ -22,15 +22,15 @@
 
 ## / about
 
-I’m a Computer Science undergraduate at **BITS Pilani Dubai Campus**, graduating in 2028, with a planned minor in Quantum Computing and a current GPA of **9.45 / 10**.
+I learn by shipping: small experiments, useful tools, and research code that makes an idea easier to test.
 
-My work sits between research questions and working software: I like taking a noisy problem, making its assumptions explicit, and building the smallest system that makes the result useful. Current interests include quantum machine learning, adversarial ML, Bayesian inference, information retrieval, and explainable data systems.
+On GitHub, you’ll find work across:
 
-```text
-research  →  quantum federated learning · migration nowcasting · explainable transport
-build     →  search systems · aviation data · study software · collaboration tools
-practice  →  cybersecurity competitions · systems thinking · clear technical writing
-```
+- search and data products
+- ML security and reliable evaluation
+- quantum systems and developer tooling
+
+I care about readable code, honest caveats, and turning each repository into a better question than the one I started with.
 
 ## / stack
 
