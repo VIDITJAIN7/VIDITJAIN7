@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101414,55:172525,100:2d3936&height=170&section=header&text=vj.&fontSize=64&fontColor=eeeee5&fontAlignY=38&desc=research%20%2F%20software%20%2F%20reliable%20systems&descAlignY=64&descSize=15&descColor=a3ded7&animation=fadeIn" alt="Vidit Jain — research, software, reliable systems" width="100%" />
 </a>
 
-<h1>Vidit Jain</h1>
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3200&pause=900&color=A3DED7&center=true&vCenter=true&width=720&lines=Computer+science+student+%C2%B7+researcher+%C2%B7+builder;Turning+messy+data+into+useful+systems;Quantum+computing+%C2%B7+ML+security+%C2%B7+developer+tools" alt="Computer science student, researcher and builder" />
 </p>
