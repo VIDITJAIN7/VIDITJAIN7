@@ -10,8 +10,6 @@
 
 </div>
 
-<p align="center"><code>status: building in public</code> &nbsp; <code>location: Dubai, UAE</code> &nbsp; <code>signal: curious</code></p>
-
 ## / about
 
 I like building things to figure out how they work — search tools, small ML systems, and experiments that may or may not survive the weekend.
